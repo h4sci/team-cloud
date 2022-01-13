@@ -11,3 +11,8 @@ Windows Users:
 - docker run IMAGEID (will run the built image) 
 - docker image rm -f IMAGEID (will remove the image -f force deleting if it is running)
 - 
+
+AWS Fargate is a serverless compute engine and hosting option for container-based workloads.
+What Fargate allows you to do is host your containers on top of a fully managed compute platform.
+That means no provisioning infrastructure, no setting up your clusters scaling, and no server management over time. 
+You can define image, vCPU, memory, networking ports in task definition.
